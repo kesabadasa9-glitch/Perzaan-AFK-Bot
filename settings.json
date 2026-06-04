@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "SHAYANMODZ.aternos.me:40816",
+    "port": 40816,
+    "version": "1.26.11"
   },
   "position": {
     "enabled": true,
